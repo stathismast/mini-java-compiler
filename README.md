@@ -19,6 +19,10 @@ sudo apt-get install default-jdk
 ```
 sudo apt-get install clang-4.0
 ```
+- You will also need ```make```. Most people already have it installed in their Linux distros, but if you don't, you can do so as such:
+```
+sudo apt-get install make
+```
 
 ## Compile
 From the main directory, execute:
