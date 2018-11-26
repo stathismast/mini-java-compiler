@@ -9,7 +9,7 @@
 - The second part is the compiler itself which parses the given code in order to generate intermediate LLVM code that is then used by the Clang LLVM compiler to produce an executable.
 
 ## Dependencies
-- In order to run the code on your maching you need to have a recent version of ```java``` and ```javac``` installed.
+- In order to run the code on your machine you need to have a recent version of ```java``` and ```javac``` installed.
 - The easiest way to do this in a Linux distro is by using the following command:
 ```
 sudo apt-get install default-jdk
